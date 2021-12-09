@@ -55,8 +55,9 @@ checklist of the features a user-friendly site should include
 10. If it’s an ecommerce site, there are clear links to the basket and checkout on each page.
 11. There is a sitemap providing a clear overview of the site’s content.
 12. There is a link to the sitemap on every page.
-13. There’s an easy and obvious way to move between related sites and pages.
-14. Navigation labels contain ‘trigger words’ that users look for when they scan the site.
+13. Dropdown menus are only one level unless absolutely necessary
+14. There’s an easy and obvious way to move between related sites and pages.
+15. Navigation labels contain ‘trigger words’ that users look for when they scan the site.
 
 ## LINKS
 1. There aren’t any broken links (check for these using the Dead Link Checker tool).
